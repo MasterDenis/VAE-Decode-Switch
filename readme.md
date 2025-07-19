@@ -4,7 +4,7 @@ A simple but powerful utility node for ComfyUI that allows you to switch between
 
 This node is designed to keep your graphs clean and make A/B testing different decoding methods quick and easy.
 
-![VAE Decode Switch Demo](https://i.imgur.com/aBcDeFg.gif)
+![VAE Decode Switch Demo](https://i.imgur.com/jVLfvfl.png)
 
 ---
 
